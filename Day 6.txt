@@ -1,6 +1,0 @@
-
-Composition vs Inheritance
-
-React has a powerful composition model, and 
-recommended using composition instead of inheritance to reuse code between components.
-
